@@ -5,7 +5,7 @@ Passionate about technology and music. :computer::headphones:
 
 My gateway to the Fantastic World of Programming was Python. :snake:
 
-At moment i'm a Developer, working with C# and .NET. Studying JavaScript and Web Development. :man_technologist::coffee:
+At moment i'm a Analyst Developer, working with .NET in ASPNET Web Application. Studying JavaScript and Web Development. :man_technologist::coffee:
 
 ### More for me
 
