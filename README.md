@@ -1,34 +1,18 @@
 # 🇧🇷 Olá, eu sou o Deivid! 
 
 ## Sobre mim
-Apaixonado por tecnologia e música. :computer::headphones:
+👨‍💻 Sócio e Desenvolvedor Sênior de Software na Weduka | 💡 Apaixonado por Inovação
 
-Minha porta de entrada para o Fantástico Mundo da Programação foi Python. :snake:
+🌟 Olá! Sou parte da equipe de tecnologia na Weduka, onde me dedico a criar soluções de software incríveis. Adoro transformar ideias em realidade, seja em desenvolvimentos de projetos ou resolvendo problemas complexos.
 
-No momento sou Analista Desenvolvedor, trabalhando com .NET em um projeto ASPNET Web. Estudando JavaScript e Desenvolvimento Web. Graduando em ciência da computação. :man_technologist::coffee:
-
-### Mais sobre mim
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leividduan)](https://github.com/leividduan)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leividduan/)](https://www.linkedin.com/in/deivid-luan-c-08051811b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deivid.cardos@gmail.com)](mailto:deivid.cardos@gmail.com)
-
-- Agradeço a sua visita.
+🚀 Tenho experiência em várias tecnologias, como .NET, JS, TS, Python, Node, SQL, e estou sempre pronto para aprender mais e compartilhar o que sei.
 
 
 # :us: Hi, I'm Deivid! 
 
 ## About me
-Passionate about technology and music. :computer::headphones:
+👨‍💻 Partner and Senior Software Developer at Weduka | 💡 Passionate about Innovation
 
-My gateway to the Fantastic World of Programming was Python. :snake:
+🌟 Hello! I'm part of the technology team at Weduka, where I dedicate myself to creating amazing software solutions. I love turning ideas into reality, whether it's through project development or solving complex problems.
 
-At moment i'm a Analyst Developer, working with .NET in ASPNET Web Application. Studying JavaScript and Web Development. Degraduating in computer ciencie. :man_technologist::coffee:
-
-### More for me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leividduan)](https://github.com/leividduan)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leividduan/)](https://www.linkedin.com/in/deivid-luan-c-08051811b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deivid.cardos@gmail.com)](mailto:deivid.cardos@gmail.com)
-
-- Thanks for visiting.
+🚀 I have experience with various technologies such as .NET, JS, TS, Python, Node, SQL, and I'm always ready to learn more and share what I know.
